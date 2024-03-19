@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://drive.google.com/file/d/1A9AT_SwqLQM2VMCNEym4L5kLL1t26PlO/view?usp=sharing"  />
+
 
 ###
 
@@ -59,6 +59,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/arpitpandey040/arpitpandey040/output/snake.svg" alt="Snake animation" />
+
 
 ###
